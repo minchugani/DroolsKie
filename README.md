@@ -1,2 +1,0 @@
-# DroolsKie
-Drools Workbench
